@@ -9,3 +9,4 @@ streamlit==1.21.0
 selenium
 fake-useragent
 twocaptcha
+validators>=0.21.0 # not directly required, pinned by Snyk to avoid a vulnerability
